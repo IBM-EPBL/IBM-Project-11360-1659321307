@@ -30,7 +30,7 @@ Recommender system technology aims to help users in finding items that match the
 	YEAR : 2016
 
 ABSTRACT:
-The developed system is job recommendation system for campus recruitment which helps college placement office to match company’s profiles and student’s profiles with higher precision and lower cost. For profile matching, two matching methods are used: semantic matching, tree-based knowledge matching and query matching. These methods are integrated according to representations of attributes of students and companies, and then the profile similarity degree
+The developed system is job a recommendation system for campus recruitment which helps college placement office to match company’s profiles and student’s profiles with higher precision and lower cost. For profile matching, two matching methods are used: semantic matching, tree-based knowledge matching and query matching. These methods are integrated according to representations of attributes of students and companies, and then the profile similarity degree
 is acquired. Based on profile similarity degree, preference lists of companies and students are generated. Also students can perform keyword based search for job profiles from various job recruitment sites (e.g. Naukari.com,indeed.com). For obtaining data from online recruitment sites system uses web crawling. With loop matching, matching results would be further optimized and provide more effective guidance for recommendation.
 
 4. A bottom-up approach to job recommendation system.
