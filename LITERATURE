@@ -1,0 +1,50 @@
+PROJECT TITLE SKILL AND JOB RECOMMENDER
+
+Team Members:
+	1. Lakshman S - 312319205077
+	2. Nandha Kumar BK - 312319205100
+	3. Karthik Raja R - 312319205066
+	4. Mugesh G - 312319205096
+
+LITERATURE SURVEY
+
+ 
+1. Dynamic user profile-based job recommender system.
+	AUTHOR : Hong, W., Zheng, S. and Wang, H.
+	YEAR : 2013
+	
+ABSTRACT:
+In this paper, we propose a dynamic user profile-based job recommender system. To address the challenge that the job applicants do not update the user profile in a timely manner, we update and extend the user profile dynamically based on the historical applied jobs and behaviors of job applicants. In particular, the statistical results of basic features in the applied jobs are used to update the job applicants'. In addition, feature selection is employed in the text information of jobs that applied by the job applicant for extending the feature. Then a hybrid recommendation algorithm is employed according to the characteristics of user profiles for achieving the dynamic recommendation.
+
+
+2. Job recommendation systems for enhancing e-recruitment process.
+	AUTHOR : Al-Otaibi, S.T. and Ykhlef, M.
+	YEAR : 2012
+
+ABSTRACT:
+The Internet caused a substantial impact on the recruitment process through the creation of e- recruiting platforms that become a primary recruitment channel in most companies. While companies established job positions on these portals, job-seeker uses them to publish their profiles. E-recruitment platforms accomplished clear advantages for both recruiters and job-seekers by reducing the recruitment time and advertisement cost. However, these platforms suffer from an inappropriateness of traditional information retrieval techniques like the Boolean search methods that caused many applicants missed the opportunity of recruiting
+Recommender system technology aims to help users in finding items that match their preferences; it has a successfulusage in a wide-range of applications to deal with problems related to information overload efficiently. In order to improve the e-recruiting functionality, many recommender system approaches have been proposed. This paper will analyze e-recruiting process and related issues for building personalized recommender systems of candidates/job matching.
+
+3. Job recommendation system using profile matching and web-crawling.
+	AUTHOR : Musale, D.V., Nagpure, M.K., Patil, K.S. and Sayyed, R.F.
+	YEAR : 2016
+
+ABSTRACT:
+The developed system is job recommendation system for campus recruitment which helps college placement office to match company’s profiles and student’s profiles with higher precision and lower cost. For profile matching, two matching methods are used: semantic matching, tree-based knowledge matching and query matching. These methods are integrated according to representations of attributes of students and companies, and then the profile similarity degree
+is acquired. Based on profile similarity degree, preference lists of companies and students are generated. Also students can perform keyword based search for job profiles from various job recruitment sites (e.g. Naukari.com,indeed.com). For obtaining data from online recruitment sites system uses web crawling. With loop matching, matching results would be further optimized and provide more effective guidance for recommendation.
+
+4. A bottom-up approach to job recommendation system.
+	AUTHOR : Mishra, S.K. and Reddy, M
+	YEAR : 2016
+
+ABSTRACT:
+Recommendation Systems are omnipresent on the web nowadays. Most websites today are striving to provide quality recommendations to their customers in order to increase and retain their customers. In this paper, we present our approaches to design a job recommendation system for a career based social networking website - XING. We take a bottom up approach: we start with deeply understanding and exploring the data and gradually build the smaller bits of the system. We also consider traditional approaches of recommendation systems like collaborative filtering and discuss its performance. The best model that we produced is based on Gradient Boosting algorithm. Our experiments show the efficacy of our approaches. This work is based on a challenge organized by ACM RecSys conference 2016. We achieved a final full score of 1,411,119.11 with rank 20 on the official leader board.
+
+5. Web recommender system for job seeking and recruiting.
+	AUTHOR : Tondji, L.N.
+	YEAR : 2018. 
+
+ABSTRACT:
+In general, looking for a job while scanning a lists of hiring positions on recruitment sites, which really cost a lot of time and money is an annoying thing to do Althought most of the time those jobs are not always suitable with users, or users are not satisfied. By doing this, recruiters waste their time by making
+sure that they are qualified or not. This thesis seeks to address a very important issue in the recruitment process which is about matching jobs seekers with jobs offers. Nowadays, the matching process between the applicant and the job offers is one of the major problems companies have to handle. Shortlisting
+candidates and screening resumes are long time-consuming tasks for the company, especially when 80 percent to 90 percent of the resumes received for a role are unqualified. We have designed and proposed an hybrid personalized recommender system called skillake for job seeking and online recruiting websites adapted to the cold start problem using a clustering predictive algorithms.
