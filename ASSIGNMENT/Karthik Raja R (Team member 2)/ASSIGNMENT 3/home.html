@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<style>
+    body {
+        background: #c2c8ea;
+    }
+
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .center {
+        text-align: center;
+    }
+</style>
+
+<body>
+    <div class="center">
+
+        <h2>ASSIGNMENT-3</h2>
+        <b>USING IBM CLOUD-OBJECT-STORAGE</b>
+
+        <p>THE IMAGE WAS DIRECTLY SHOWN FROM IBM CLOUD-OBJECT-STORAGE USING URL LINK </p>
+
+        <h2>FIRST IMAGE : Cute cats</h2>
+
+        <img src="https://codesploit.s3.jp-tok.cloud-object-storage.appdomain.cloud/31-6.jpg"
+            alt="Cute kittens" width="460" height="345">
+
+        <h2>SECOND IMAGE : Puppy</h2>
+
+        <img src="https://codesploit.s3.jp-tok.cloud-object-storage.appdomain.cloud/GettyImages-588935825.jpg"
+            alt="Cute puupy" width="460" height="345">
+
+
+        <h2>THIRD IMAGE :Nebula - James web</h2>
+
+        <img src="https://codesploit.s3.jp-tok.cloud-object-storage.appdomain.cloud/eso1205a.jpg"
+            alt="Nebula" width="460" height="345">
+
+        <h2>FOURTH IMAGE :Nebula - Hubble space telescope</h2>
+
+        <img src="https://codesploit.s3.jp-tok.cloud-object-storage.appdomain.cloud/heic0307a.jpg"
+            alt="Nebula" width="460" height="345">
+
+        <h2>FIFTH IMAGE :Neutron star</h2>
+
+        <img src="https://codesploit.s3.jp-tok.cloud-object-storage.appdomain.cloud/neutronstarj-1200x675.jpg"
+            alt="Neutron star" width="460" height="345">
+
+    </div>
+    <script>
+        window.watsonAssistantChatOptions = {
+            integrationID: "945a8524-0a11-443a-aeeb-66a7ce91f918", // The ID of this integration.
+            region: "au-syd", // The region your integration is hosted in.
+            serviceInstanceID: "bc9168ac-bcca-45c1-8463-9e60809ffed4", // The ID of your service instance.
+            onLoad: function (instance) { instance.render(); }
+        };
+        setTimeout(function () {
+            const t = document.createElement('script');
+            t.src = "https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js";
+            document.head.appendChild(t);
+        });
+    </script>
+
+</body>
+
+</html>
